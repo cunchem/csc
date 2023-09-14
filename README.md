@@ -1,6 +1,6 @@
 # INSA Lyon - Cours de 4TC(A)-CSC : Cryptographie et Sécurité des Communications
 
-_Lionel Morel ([lionel.morel@insa-lyon.fr](mailto:lionel.morel@insa-lyon.fr))_
+_Mathieu Cunche ([mathieu.cunche@insa-lyon.fr](mailto:mathieu.cunche@insa-lyon.fr))_
 
 <!-- Structure du cours 4TC-CSC
 ==========================
