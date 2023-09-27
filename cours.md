@@ -1,6 +1,6 @@
 # Cours de 4TC(A)-CSC : Cryptographie et Sécurité des Communications
 
-_Lionel Morel ([lionel.morel@insa-lyon.fr](mailto:lionel.morel@insa-lyon.fr)_
+_Mathieu Cunche ([mathieu.cunche@insa-lyon.fr](mailto:mathieu.cunche@insa-lyon.fr)_
 
 <!-- https://tls.ulfheim.net/ -->
 
@@ -20,7 +20,7 @@ Pour cette séance, vous devez étudier l'histoire de la cryptographie et de son
 
 Ouverture obligatoire : [Public Key Cryptography’s Impact on Society: How Diffie and Hellman Changed the World, _Paul C. van Oorschot_](https://people.scs.carleton.ca/~paulv/papers/society-impact-of-pkc-v3.pdf). Consacrez une heure à cet article. Sur cette lecture, merci de me faire un retour par MP Discord mentionnant si cet article vous a intéressé, s'il est abordable en introduction, le temps que vous y avez consacré et la proportion approximative que vous en avez lu. 
 
-<!-- Ensuite, consacrez 1 heure à la consultation de l'article [Public Key Cryptography’s Impact on Society: How Diffie and Hellman Changed the World, _Paul C. van Oorschot_](https://people.scs.carleton.ca/~paulv/papers/society-impact-of-pkc-v3.pdf). La lecture n'a pas nécessairement à être exhaustive (selon votre aise en anglais, notamment), faîtes une lecture rapide du plan et des thèmes puis approfondissez les parties de votre choix. (Sur cette lecture, merci de me faire un MP Discord mentionannt si cet article vous a intéressé, s'il est abordable en introduction, le temps que vous y avez consacré et la proportion approximative que vous en avez lu) -->
+<!-- Ensuite, consacrez 1 heure à la consultation de l'article [Public Key Cryptography’s Impact on Society: How Diffie and Hellman Changed the World, _Paul C. van Oorschot_](https://people.scs.carleton.ca/~paulv/papers/society-impact-of-pkc-v3.pdf). La lecture n'a pas nécessairement à être exhaustive (selon votre aise en anglais, notamment), faîtes une lecture rapide du plan et des thèmes puis approfondissez les parties de votre choix. (Sur cette lecture, merci de me faire un mail mentionannt si cet article vous a intéressé, s'il est abordable en introduction, le temps que vous y avez consacré et la proportion approximative que vous en avez lu) -->
 
 
 Enjeux éthiques
