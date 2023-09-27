@@ -35,7 +35,7 @@ Pour cette séance, nous allons nous intéresser aux enjeux de société liés �
 * [The Moral Character of Cryptographic Work, _Phillip Rogaway_](http://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
 * [Decrypting the encryption debate](https://www.nap.edu/catalog/25010/decrypting-the-encryption-debate-a-framework-for-decision-makers)
 * [Conférence de clôture du SSTIC 2018, Patrick Pailloux, Directeur technique de la DGSE (vidéo, 1h)](https://www.sstic.org/2018/presentation/2018_cloture/)
-* [Tous connectés, tous responsables, _Guillaume Poupard, Directeur général de l’ANSSI_](https://www.liberation.fr/debats/2019/01/21/tous-connectes-tous-responsables_1704228)
+* [Tous connectés, tous responsables, _Guillaume Poupard, Directeur général de l’ANSSI_](https://www.liberation.fr/debats/2019/01/21/securite-informatique-tous-connectes-tous-responsables_1704228/)
 * Sur un mécanisme de séquestre proposé en 2018 par Ray Ozzie, lire [la proposition](https://www.wired.com/story/crypto-war-clear-encryption/), ainsi qu'au moins une critique parmi celles de [Robert Graham](https://blog.erratasec.com/2018/04/no-ray-ozzie-hasnt-solved-crypto.html), [Matthew Green](https://twitter.com/matthew_d_green/status/989222188287954945) et [Steven M. Bellovin, Matt Blaze, Dan Boneh, Susan Landau, and Ronald L. Rivest](https://arstechnica.com/information-technology/2018/05/op-ed-ray-ozzies-crypto-proposal-a-dose-of-technical-reality/).
 
 <!-- https://citizenlab.ca/2019/09/annotated-bibliography-dual-use-technologies-network-traffic-management-and-device-intrusion-for-targeted-monitoring/ -->
