@@ -1,6 +1,6 @@
 # Projet arpentage
 
-_Lionel Morel ([lionel.morel@insa-lyon.fr](mailto:lionel.morel@insa-lyon.fr)_
+_Mathieu Cunche ([mathieu.cunche@insa-lyon.fr](mailto:mathieu.cunche@insa-lyon.fr)_
 
 Le but de ce "mini-projet" est de vous faire explorer un sujet de votre choix (en lien avec le cours) et de vous faire synthétiser votre compréhension au reste du groupe. 
 La synthèse se fait sous la forme d'un rapport court (5 pages maximum) ainsi que d'une présentation à l'ensemble de la promo. 
@@ -23,7 +23,7 @@ préférentiellement, de la sécurité des communications). Voici quelques idée
 * Des outils PKI : Protocole ACME (Let's Encrypt), Certificate Transparency, PGP poisoning, Keybase.io, clé racine DNSSEC (génération, rollover)
 * Des questions plus théoriques : par exemple, "c'est quoi la cryprographie quantique" ? 
 
-Merci d'enregistrer au plus vite votre choix (noms, sujet) sur ce [framapad d'index](https://semestriel.framapad.org/p/Arpentage-CSC).
+Merci d'enregistrer au plus vite votre choix (noms, sujet) sur ce [framapad d'index](https://semestriel.framapad.org/p/arpentage2023-a3i6?lang=en).
 
 Rendus attendus : 
 * 1 présentation de 15 minutes, avec support numérique ;
@@ -37,4 +37,4 @@ https://moodle.insa-lyon.fr/course/view.php?id=4647
 <!--
 https://emilymstark.com/2020/07/20/certificate-transparency-a-birds-eye-view.html
 
--->
+-
