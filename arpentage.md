@@ -27,7 +27,7 @@ Merci d'enregistrer au plus vite votre choix (noms, sujet) sur ce [framapad d'in
 
 Rendus attendus : 
 * 1 présentation de 15 minutes, avec support numérique ;
-* 1 rapport de 5 pages (maximum). 
+* 1 rapport (2 pages maximum). 
 
 Ces deux documents sont à rendre ici : 
 https://moodle.insa-lyon.fr/course/view.php?id=4647
