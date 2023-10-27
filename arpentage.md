@@ -3,7 +3,7 @@
 _Mathieu Cunche ([mathieu.cunche@insa-lyon.fr](mailto:mathieu.cunche@insa-lyon.fr)_
 
 Le but de ce "mini-projet" est de vous faire explorer un sujet de votre choix (en lien avec le cours) et de vous faire synthétiser votre compréhension au reste du groupe. 
-La synthèse se fait sous la forme d'un rapport court (5 pages maximum) ainsi que d'une présentation à l'ensemble de la promo. 
+La synthèse se fait sous la forme d'un rapport court (2 pages maximum) ainsi que d'une présentation à l'ensemble de la promo. 
 
 Les groupes sont auto-constitués, et vous ne pouvez pas dépasser 3 personnes. 
 A J-1, 8 groupes/sujets seront tirés au sort pour présenter lors de la-dite séance. 
