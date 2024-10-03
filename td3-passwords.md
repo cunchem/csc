@@ -99,7 +99,7 @@ Pour approfondir
 
 **Les schémas vus dans ce TD, de manière similaire à ce que nous avons vu côté RSA, sont simplifiés pour comprendre le principe (textbook)**. Pour référence plus précise, vous pouvez ensuite consulter (et garder) :
 
-* [SOPHOS : Serious Security: How to store your users’ passwords safely](https://nakedsecurity.sophos.com/2013/11/20/serious-security-how-to-store-your-users-passwords-safely/)
+* [SOPHOS : Serious Security: How to store your users’ passwords safely](https://web.archive.org/web/20230127190902/https://nakedsecurity.sophos.com/2013/11/20/serious-security-how-to-store-your-users-passwords-safely/)
 * [OWASP : Password Storage Cheat Sheet](https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet)
 * [Micode : 30 000 MOTS DE PASSE CRACKÉS EN 5 MINUTES ! (vidéo)](https://youtu.be/_1ONcmFUOxE)
 * [Des exemples de dictionnaires](https://weakpass.com/wordlist)
