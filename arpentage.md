@@ -23,13 +23,13 @@ préférentiellement, de la sécurité des communications). Voici quelques idée
 * Des outils PKI : Protocole ACME (Let's Encrypt), Certificate Transparency, PGP poisoning, Keybase.io, clé racine DNSSEC (génération, rollover)
 * Des questions plus théoriques : par exemple, "c'est quoi la cryprographie quantique" ? 
 
-Merci d'enregistrer au plus vite votre choix (noms, sujet) sur ce [framapad d'index](https://semestriel.framapad.org/p/arpentage2023-a3i6?lang=en).
+Merci d'enregistrer au plus vite votre choix (noms, sujet) sur ce [framapad d'index](https://semestriel.framapad.org/p/arpentage_csc).
 
-Rendus attendus : 
+Rendu attendu : 
 * 1 présentation de 15 minutes, avec support numérique ;
-* 1 rapport (2 pages maximum). 
 
-Ces deux documents sont à rendre ici : 
+
+Ce est à déposer ici: 
 https://moodle.insa-lyon.fr/course/view.php?id=4647
 
 
