@@ -48,19 +48,17 @@ La structure détaillée est la suivante, la préparation de chaque item est dé
 
 * Introduction : Travail perso (2h), CM1 (1h30)
 * Enjeux éthiques : Travail perso (2h), TD1 (2h)
-* Bases de la crypto : Travail perso (2h), CM2 (1h30), TD2 (2h)
+* Bases de la crypto : Travail perso (2h), CM2 (2h), TD2 (2h)
 * Stockage des mots de passe : TD3 (2h)
-* PKI (autorités de certification, DANE et PGP) : Travail perso (2h), TD4, TD5
+* PKI (autorités de certification, DANE et PGP) : Travail perso (2h), TD4
 * Protocoles cryptographiques : CM3 (2h), TP1 (4h)
-* Projet d'arpentage communications : Travail perso (2h), TD6 (2h), CM4 (2h)
-
-Pour interagir/discuter/commenter/poser des questions en dehors des heures de cours, vous devez utiliser le canal Discord.
+* Projet d'arpentage communications : Travail perso (2h), TD6 (4h), CM4 (2h)
 
 Le cours (pour les séances de travail personnel) est [ici](cours.md)
 
-Les notes de CM : [CM1 (intro)](CM/handout/intro.pdf) / [CM2 (Bases)](CM/handout/principles.pdf) / [CM3 (protocoles)](CM/handout/protocols.pdf)
+Les notes de CM : [CM1 (intro)](CM/1_Security.pdf) / [CM2 (Crypto)](CM/2_Cryptography.pdf) / [CM3 (protocoles)](CM/Secure_protocoles.pdf)
 
-Les TD : [TD2 (JdR)](td2-jdr.md) / [TD3 (Passwords)](td3-passwords.md) / [TD4 (CA)](td4-ca.md) / [TD5 (DANE/PGP)](td5-danepgp.md)
+Les TD : [TD2 (JdR)](td2-jdr.md) / [TD3 (Passwords)](td3-passwords.md) / [TD4 (CA)](td4-ca.md) 
 
 Les TP : [TP1 (HTTPS)](tp1-https.md)
 
