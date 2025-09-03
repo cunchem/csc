@@ -1,4 +1,4 @@
-# Cours de 4TC(A)-CSC : Cryptographie et Sécurité des Communications
+# Supports séances en autonomie de 4TC(A)-CSC : Cryptographie et Sécurité des Communications
 
 _Mathieu Cunche ([mathieu.cunche@insa-lyon.fr](mailto:mathieu.cunche@insa-lyon.fr)_
 
@@ -11,14 +11,14 @@ _Mathieu Cunche ([mathieu.cunche@insa-lyon.fr](mailto:mathieu.cunche@insa-lyon.f
 [Protocoles](#protocoles-cryptographiques) |
 [Biblio](#bibliographie)
 
-Ce document décrit le travail à réaliser pendant les séances en autonomie. Pour certaines séances, des ouvertures sont proposées, elles sont à lire sans trop entrer dans les détails, comme des éclairages sur le sujet. Ces ouvertures sont soit obligatoires (doivent donc être consultées), soit facultatives (j'attends que vous lisiez au moins une facultative sur l'ensemble de la matière).
+Ce document décrit le travail à réaliser pendant **les séances en autonomie**. Pour certaines séances, des ouvertures sont proposées, elles sont à lire sans trop entrer dans les détails, comme des éclairages sur le sujet. Ces ouvertures sont soit obligatoires (doivent donc être consultées), soit facultatives (j'attends que vous lisiez au moins une facultative sur l'ensemble de la matière).
 
 Introduction à la crypto
 ========================
 
 Pour cette séance, vous devez étudier l'histoire de la cryptographie et de son utilisation. Nous nous baserons pour cela d'abord sur l'article de Wikipedia qui propose un bon historique : [WikipediaFR](https://fr.wikipedia.org/wiki/Histoire_de_la_cryptologie) (environ 1 heure).
 
-Ouverture obligatoire : [Public Key Cryptography’s Impact on Society: How Diffie and Hellman Changed the World, _Paul C. van Oorschot_](https://people.scs.carleton.ca/~paulv/papers/society-impact-of-pkc-v3.pdf). Consacrez une heure à cet article. Sur cette lecture, merci de me faire un retour par MP Discord mentionnant si cet article vous a intéressé, s'il est abordable en introduction, le temps que vous y avez consacré et la proportion approximative que vous en avez lu. 
+Ouverture obligatoire : [Public Key Cryptography’s Impact on Society: How Diffie and Hellman Changed the World, _Paul C. van Oorschot_](https://people.scs.carleton.ca/~paulv/papers/society-impact-of-pkc-v3.pdf). Consacrez une heure à cet article. 
 
 <!-- Ensuite, consacrez 1 heure à la consultation de l'article [Public Key Cryptography’s Impact on Society: How Diffie and Hellman Changed the World, _Paul C. van Oorschot_](https://people.scs.carleton.ca/~paulv/papers/society-impact-of-pkc-v3.pdf). La lecture n'a pas nécessairement à être exhaustive (selon votre aise en anglais, notamment), faîtes une lecture rapide du plan et des thèmes puis approfondissez les parties de votre choix. -->
 
