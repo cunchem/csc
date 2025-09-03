@@ -54,7 +54,7 @@ La structure détaillée est la suivante, la préparation de chaque item est dé
 * Protocoles cryptographiques : CM3 (2h), TP1 (4h)
 * Projet d'arpentage communications : Travail perso (2h), TD6 (4h), CM4 (2h)
 
-Le cours (pour les séances de travail personnel) est [ici](cours.md)
+Les supports pour les séances en autonomie (travail personnel) sont [ici](cours.md)
 
 Les notes de CM : [CM1 (intro)](CM/1_Security.pdf) / [CM2 (Crypto)](CM/2_Cryptography.pdf) / [CM3 (protocoles)](CM/Secure_protocoles.pdf)
 
