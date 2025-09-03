@@ -50,9 +50,9 @@ La structure détaillée est la suivante, la préparation de chaque item est dé
 * Enjeux éthiques : Travail perso (2h), TD1 (2h)
 * Bases de la crypto : Travail perso (2h), CM2 (2h), TD2 (2h)
 * Stockage des mots de passe : TD3 (2h)
-* PKI (autorités de certification, DANE et PGP) : Travail perso (2h), TD4
+* PKI (autorités de certification) : Travail perso (2h), TD4
 * Protocoles cryptographiques : CM3 (2h), TP1 (4h)
-* Projet d'arpentage communications : Travail perso (2h), TD6 (4h), CM4 (2h)
+* Projet d'arpentage communications : Travail perso (2h), TD6 (2h), CM4 (2h)
 
 Les supports pour les séances en autonomie (travail personnel) sont [ici](cours.md)
 
