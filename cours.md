@@ -72,7 +72,7 @@ Ouverture (obligatoire): [La sélection de l'AES](https://videlalvaro.github.io/
 Ouverture (facultative):
 
 * [L'histoire de Dual\_EC\_DRBG](https://en.wikipedia.org/wiki/Dual_EC_DRBG)
-* [Listen up, FBI: Juniper code shows the problem with backdoors, _Fahmida Y. Rashid, InfoWorld_](http://www.infoworld.com/article/3018029/virtual-private-network/listen-up-fbi-juniper-code-shows-the-problem-with-backdoors.html)
+* [Listen up, FBI: Juniper code shows the problem with backdoors, _Fahmida Y. Rashid, InfoWorld_](https://www.infoworld.com/article/2243320/listen-up-fbi-juniper-code-shows-the-problem-with-backdoors.html)
 * [Cryptographic competitions, _Daniel J. Bernstein_](https://eprint.iacr.org/2020/1608.pdf)
 
 Cette section sera suivie d'une heure de questions-réponses (vous **devez** venir avec une question sur cette partie) puis conclue par le TD2 JDR.
