@@ -29,7 +29,7 @@ Enjeux éthiques
 Pour cette séance, nous allons nous intéresser aux enjeux de société liés à la cryptographie. Pour cela, vous devez consacrer le temps de préparation à lire des (parties de) documents suivants (si possible pas tous les mêmes, afin de diversifier vos apports lors de la séance de TD qui suivra) :
 
 * [WikipediaEN : Crypto wars](https://en.wikipedia.org/wiki/Crypto_Wars)
-* [Listen up, FBI: Juniper code shows the problem with backdoors, _Fahmida Y. Rashid, InfoWorld_](https://www.infoworld.com/article/3018029/virtual-private-network/listen-up-fbi-juniper-code-shows-the-problem-with-backdoors.html)
+* [Backdoor infecting VPNs used “magic packets” for stealth and security](https://arstechnica.com/security/2025/01/backdoor-infecting-vpns-used-magic-packets-for-stealth-and-security/)
 * [The Risks of “Responsible Encryption”, _Riana Pfefferkorn_](https://cyberlaw.stanford.edu/publications/risks-responsible-encryption)
 * [Keys Under Doormats: Mandating insecurity by requiring government access to all data and communications,_Abelson, Harold; Anderson, Ross; Bellovin, Steven M.; Benaloh, Josh; Blaze, Matt; Diffie, Whitfield; Gilmore, John; Green, Matthew; Landau, Susan; Neumann, Peter G.; Rivest, Ronald L.; Schiller, Jeffrey I.; Schneier, Bruce; Specter, Michael; Weitzner, Daniel J._](https://dspace.mit.edu/bitstream/handle/1721.1/97690/MIT-CSAIL-TR-2015-026.pdf?sequence=8)
 * [The Moral Character of Cryptographic Work, _Phillip Rogaway_](http://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
