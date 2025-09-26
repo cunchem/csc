@@ -30,6 +30,7 @@ Pour cette séance, nous allons nous intéresser aux enjeux de société liés �
 
 * [WikipediaEN : Crypto wars](https://en.wikipedia.org/wiki/Crypto_Wars)
 * [Backdoor infecting VPNs used “magic packets” for stealth and security](https://arstechnica.com/security/2025/01/backdoor-infecting-vpns-used-magic-packets-for-stealth-and-security/)
+* [Listen up, FBI: Juniper code shows the problem with backdoors, _Fahmida Y. Rashid, InfoWorld_](https://www.infoworld.com/article/2243320/listen-up-fbi-juniper-code-shows-the-problem-with-backdoors.html)
 * [The Risks of “Responsible Encryption”, _Riana Pfefferkorn_](https://cyberlaw.stanford.edu/publications/risks-responsible-encryption)
 * [Keys Under Doormats: Mandating insecurity by requiring government access to all data and communications,_Abelson, Harold; Anderson, Ross; Bellovin, Steven M.; Benaloh, Josh; Blaze, Matt; Diffie, Whitfield; Gilmore, John; Green, Matthew; Landau, Susan; Neumann, Peter G.; Rivest, Ronald L.; Schiller, Jeffrey I.; Schneier, Bruce; Specter, Michael; Weitzner, Daniel J._](https://dspace.mit.edu/bitstream/handle/1721.1/97690/MIT-CSAIL-TR-2015-026.pdf?sequence=8)
 * [The Moral Character of Cryptographic Work, _Phillip Rogaway_](http://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
@@ -71,7 +72,7 @@ Ouverture (obligatoire): [La sélection de l'AES](https://videlalvaro.github.io/
 Ouverture (facultative):
 
 * [L'histoire de Dual\_EC\_DRBG](https://en.wikipedia.org/wiki/Dual_EC_DRBG)
-* [Listen up, FBI: Juniper code shows the problem with backdoors, _Fahmida Y. Rashid, InfoWorld_](http://www.infoworld.com/article/3018029/virtual-private-network/listen-up-fbi-juniper-code-shows-the-problem-with-backdoors.html)
+* [Listen up, FBI: Juniper code shows the problem with backdoors, _Fahmida Y. Rashid, InfoWorld_](https://www.infoworld.com/article/2243320/listen-up-fbi-juniper-code-shows-the-problem-with-backdoors.html)
 * [Cryptographic competitions, _Daniel J. Bernstein_](https://eprint.iacr.org/2020/1608.pdf)
 
 Cette section sera suivie d'une heure de questions-réponses (vous **devez** venir avec une question sur cette partie) puis conclue par le TD2 JDR.
