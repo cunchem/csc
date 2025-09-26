@@ -31,7 +31,7 @@ def getPassDict(nbpasswords):
         f = open("files/passwords.txt")
     except FileNotFoundError:
         print("Downloading a passwords list...")
-        urllib.request.urlretrieve("https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt?raw=true", "files/passwords.txt")
+        urllib.request.urlretrieve("https://github.com/danielmiessler/SecLists/raw/refs/heads/master/Passwords/Common-Credentials/Pwdb_top-10000000.txt?raw=true", "files/passwords.txt")
         print("Done !")
         f = open("files/passwords.txt")
     passwords = []
