@@ -132,7 +132,7 @@ Vous allez maintenant transmettre un message clair (non chiffré) signé à un a
 <!-- Étudiez et testez quelques attaques sur le système mis en place : -->
 
 <!-- * Modification de message en conservant la validité de la signature -->
-	<!-- * Attaque de la clé privée (par factorisation de _n_ par exemple) -->
+<!-- * Attaque de la clé privée (par factorisation de _n_ par exemple) -->
 
 
 <!-- Toutes ces attaques sont possibles ici. Réfléchissez à leur cause et aux protections mises en place dans les cryptosystèmes réels. Implémentez une (ou plusieurs) attaque dans le langage de votre choix, proposez une contre-mesure et évaluez la complexité rajoutée par votre contre-mesure. -->
