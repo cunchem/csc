@@ -1,6 +1,6 @@
 # TD 2 : Usage de la cryptographie asymétrique
 
-_Lionel Morel ([lionel.morel@insa-lyon.fr](mailto:lionel.morel@insa-lyon.fr))_
+_Mathieu CUnche ([mathieu.cunche@insa-lyon.fr](mailto:mathieu.cunche@insa-lyon.fr))_
 
 Ce TD présente et applique les notions de cryptographie asymétrique :
 
