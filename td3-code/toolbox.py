@@ -28,7 +28,7 @@ import string
 # returns an array of a dictionary of passwords
 def getPassDict(nbpasswords):
     try:
-        f = open("files/passwords.txt")
+        f = open("files/passwords.txt",encoding="utf-8")
     except FileNotFoundError:
         print("Downloading a passwords list...")
         urllib.request.urlretrieve("https://github.com/danielmiessler/SecLists/raw/refs/heads/master/Passwords/Common-Credentials/Pwdb_top-10000000.txt?raw=true", "files/passwords.txt")
