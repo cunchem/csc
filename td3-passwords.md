@@ -1,6 +1,6 @@
 # TD 3 : Stockage et authentification par mot de passe (TD semi-machine)
 
-_Lionel Morel ([lionel.morel@insa-lyon.fr](mailto:lionel.morel@insa-lyon.fr))_
+_Mathieu Cunche ([mathieu.cunche@insa-lyon.fr](mailto:mathieu.cunche@insa-lyon.fr))_
 
 Ce TD présente le stockage et l'authentification par mot de passe côté serveur. Il s'agit typiquement du problème rencontré par une application web qui souhaite authentifier ses utilisateurs. Pour cela, l'application va stocker en base les comptes existants ainsi que le moyen de les authentifier. Comme il n'est évidemment pas souhaitable de stocker les mots de passe des utilisateurs en clair, nous allons analyser comment résoudre ce problème.
 
