@@ -14,23 +14,18 @@ Mieux clarifier/séparer les différents rôles à jouer
 BGP : https://radar.qrator.net/blog/as1221-hijacking-266asns
 -->
 
-Installation
-------------
+Ce TP présente le modèle des autorités de certification et l'applique au protocole HTTPS. Il sera réalisé dans une VM VirtualBox MI-LXC. 
 
-Ce TP présente le modèle des autorités de certification et l'applique au protocole HTTPS. Il sera réalisé dans la VM VirtualBox MI-LXC disponible [ici](https://flesueur.irisa.fr/mi-lxc/images/milxc-debian-amd64-1.4.1.ova). Comme expliqué dans la [vidéo tuto](https://flesueur.irisa.fr/mi-lxc/media/tuto.mp4) (**à regarder avant ou au début de TP !**, la vidéo décrit l'installation, la prise en main et le lancement mais attention la fin de la vidéo décrit des machines et interactions liées à un autre TP de 5TC-SRS), avant de lancer la VM, il peut être nécessaire de diminuer la RAM allouée. Par défaut, la VM a 3GO : si vous avez 4GO sur votre machine physique, il vaut mieux diminuer à 2GO, voire 1.5GO pour la VM (la VM devrait fonctionner de manière correcte toujours). 
+Installation de la VM 
+----------------------
 
-Connexion à la VM depuis les salles du departement TC
------------------------------------------------------
-The virtual machine is available from Machines in room TPInfoD (405-109) and TPInfoE. 
+Si Virtualbox n'est pas installé sur votre ordinateur, vous pouvez utiliser le bureau virtuel INSA pour effectuer le TP. Dans ce cas il faudra se connecter au bureau virtuel INSA [bv.insa-lyon.fr](bv.insa-lyon.fr) et démarrer la VM 2D-Windows. Pour rappel, l'identifiant pour se connecter au bureau virtuel est au format <login>@insa-lyon.fr, cf [manuel](https://dsi.insa-lyon.fr/sites/dsi.insa-lyon.fr/files/insal_dsi_pr_vdi_bv_connexion_client-vmware-horizon-omnissa_pub_v1.0.pdf).
 
-To start it, simply type: 
-
-		# /machines_virtuelles/milxc-debian-amd64/nlaunch2.sh
-
-Particularité pour la salle InfoE (405-112) qui est configurée en mode "kiosque de VDI" (de la virtualisation déployée par l'INSA). Et dans cette configuration, vous n'aurez a priori pas accès aux VMs. Dans cette salle faites `Ctrl+Alt+Backspace` avant de vous connecter. 
-
-
-
+Sur votre PC avec VirtualBox, ou à défaut dans la machine windows du bureau virtuel INSA, suivez les instructions suivantes :
+1. Téléchargez la VM MI-LXC disponible [ici](https://flesueur.irisa.fr/mi-lxc/images/milxc-debian-amd64-1.4.1.ova). Note : si les certificats HTTPs du site où est stockée la VM ont expirés, chrome/firefox ne vous laissera pas télécharger la VM par défaut. Pour passer outre, cliquez sur Paramètres avancé -> Continuer vers le site/accepter le risque et poursuivre
+2. Lancer Oracle VM VirtualBox 
+3. Importer la VM : Fichier -> Importer un appareil virtuel -> Renseigner le fichier .ova que vous venez de télécharger -> Suivant -> Importer
+4. Le reste de la procédure est décrit dans une [vidéo tuto](https://flesueur.irisa.fr/mi-lxc/media/tuto.mp4) (**à regarder avant ou au début de TP !**, la vidéo décrit l'installation, la prise en main et le lancement mais attention la fin de la vidéo décrit des machines et interactions liées à un autre TP de 5TC-SRS). Avant de lancer la VM, il peut être nécessaire de diminuer la RAM allouée. Par défaut, la VM a 3GO : si vous avez 4GO sur votre machine physique, il vaut mieux diminuer à 2GO, voire 1.5GO pour la VM (la VM devrait fonctionner de manière correcte toujours).
 
 Lancement de l'infrastructure 
 -------------------------------
