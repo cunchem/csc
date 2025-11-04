@@ -8,7 +8,7 @@ La synthèse se fait sous la forme d'une présentation.
 Les groupes sont auto-constitués, et vous ne pouvez pas dépasser 3 personnes. 
 
 Déroulé :
-* en autonomie : choisir un sujet (en petit groupe ou seul), l'étudier et en rédiger un petit article explicatif (2-3 heures de travail)
+* en autonomie : choisir un sujet (en petit groupe ou seul), l'étudier et préparer une présentation
 * 2h en TD : présentation et discussion dans le cadre du groupe de TD
 * 2h en cours : restitution générale collective d'une sélection des présentations
 
