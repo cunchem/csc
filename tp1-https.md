@@ -19,7 +19,7 @@ Ce TP présente le modèle des autorités de certification et l'applique au prot
 Installation de la VM 
 ----------------------
 
-Si Virtualbox n'est pas installé sur votre ordinateur, vous pouvez utiliser le bureau virtuel INSA pour effectuer le TP. Dans ce cas il faudra se connecter au bureau virtuel INSA [https://bv.insa-lyon.fr](https://bv.insa-lyon.fr) et démarrer la VM 2D-Windows. Pour rappel, l'identifiant pour se connecter au bureau virtuel est au format <login>@insa-lyon.fr, cf [manuel](https://dsi.insa-lyon.fr/sites/dsi.insa-lyon.fr/files/insal_dsi_pr_vdi_bv_connexion_client-vmware-horizon-omnissa_pub_v1.0.pdf).
+Si Virtualbox n'est pas installé sur votre ordinateur, vous pouvez utiliser le bureau virtuel INSA pour effectuer le TP. Dans ce cas il faudra se connecter au bureau virtuel INSA [https://bv.insa-lyon.fr](https://bv.insa-lyon.fr) et démarrer la VM 2D-Windows. Pour rappel, l'identifiant pour se connecter au bureau virtuel est au format login@insa-lyon.fr, cf [manuel](https://dsi.insa-lyon.fr/sites/dsi.insa-lyon.fr/files/insal_dsi_pr_vdi_bv_connexion_client-vmware-horizon-omnissa_pub_v1.0.pdf).
 
 Sur votre PC avec VirtualBox, ou à défaut dans la machine windows du bureau virtuel INSA, suivez les instructions suivantes :
 1. Téléchargez la VM MI-LXC disponible [ici](https://flesueur.irisa.fr/mi-lxc/images/milxc-debian-amd64-1.4.1.ova). Note : si le certificat SSL du site où est stockée la VM a expiré, chrome/firefox ne vous laissera pas télécharger la VM par défaut. Pour passer outre, cliquez sur Paramètres avancé -> Continuer vers le site/accepter le risque et poursuivre
