@@ -1,6 +1,6 @@
 # TP 1 : Autorités de certification et HTTPS
 
-_Lionel Morel ([lionel.morel@insa-lyon.fr](mailto:lionel.morel@insa-lyon.fr))_
+_Mathieu Cunche ([mathieu.cunche@insa-lyon.fr](mailto:mathieu.cunche@insa-lyon.fr))_
 
 Introduction
 =============
@@ -32,6 +32,7 @@ Lancement de l'infrastructure
 
 L'infrastructure déployée simule plusieurs postes dont le SI de l'entreprise _target_ (routeur, serveur web, poste admin), le SI de l'autorité de certification _mica_, un AS d'attaquant _ecorp_ et quelques autres servant à l'intégration de l'ensemble.
 
+**Note :** A partir de la version 2.* le script _mi-lxc.py_ est à remplacer par _snster_. 
 
 Vous devez vous connecter à la VM en root/root. MI-LXC est déjà installé et l'infrastructure déployée, il faut avec un terminal aller dans le dossier `/root/mi-lxc`. Pour démarrer l'infrastructure, tapez `./mi-lxc.py start`.
 
